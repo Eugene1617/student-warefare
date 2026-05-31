@@ -1,0 +1,306 @@
+text,category,category_weight,urgency_score,priority_score,label
+I have been feeling hopeless and I do not want to continue anymore.,Mental Health,10,0.95,9.9,critical
+I feel like ending my life because everything is too much.,Mental Health,10,0.99,9.98,critical
+I keep thinking about hurting myself and I cannot stop these thoughts.,Mental Health,9,0.96,9.92,critical
+I have written a goodbye note and I am serious about ending things.,Mental Health,10,0.99,9.98,critical
+I cannot see a reason to stay alive anymore.,Mental Health,10,0.98,9.96,critical
+I took some pills last night hoping I would not wake up.,Mental Health,10,0.99,9.98,critical
+Every day I wake up wishing I had not.,Mental Health,10,0.98,9.96,critical
+Someone has been touching me inappropriately.,Abuse,9,0.97,9.88,critical
+I am scared my partner will hurt me again.,Abuse,9,0.94,9.82,critical
+My lecturer made sexual advances toward me and I am terrified.,Abuse,10,0.96,9.92,critical
+I was assaulted by an older student last weekend and told no one.,Abuse,9,0.95,9.88,critical
+My uncle comes into my room at night and I am afraid to speak up.,Abuse,9,0.97,9.94,critical
+I am in a relationship where I get hit regularly but I have nowhere to go.,Abuse,9,0.93,9.78,critical
+My roommates threaten me at night.,Housing Issues,8,0.91,9.62,critical
+I was locked out of my room in the cold and my landlord is ignoring me.,Housing Issues,7,0.88,9.46,critical
+There was a physical fight in my house and I fear for my safety tonight.,Housing Issues,8,0.9,9.6,critical
+I overdosed on alcohol last night and my friends just laughed.,Substance Abuse,9,0.93,9.78,critical
+I mixed alcohol and sleeping pills last week and I am scared to tell anyone.,Substance Abuse,9,0.95,9.9,critical
+I am addicted to hard drugs and I feel completely out of control.,Substance Abuse,9,0.92,9.76,critical
+I have not eaten in three days because I cannot stop crying.,Mental Health,9,0.89,9.58,critical
+I had a panic attack so severe I thought I was dying and no one helped.,Mental Health,8,0.87,9.44,critical
+I self-harmed again last night and the cut is deep.,Mental Health,9,0.93,9.76,critical
+I am being stalked by someone on campus and I am terrified.,Safety,8,0.88,9.44,critical
+My ex-partner is threatening to share private photos of me.,Safety,8,0.9,9.6,critical
+A group of students physically blocked me from leaving a room.,Safety,8,0.87,9.42,critical
+I have been experiencing blackouts and I do not know what is happening.,Mental Health,9,0.91,9.62,critical
+I cannot breathe properly from anxiety and I need help right now.,Mental Health,9,0.9,9.6,critical
+I am shaking and crying and I do not know who to call.,Mental Health,9,0.92,9.64,critical
+I confided in a friend and now the whole campus knows my trauma.,Mental Health,9,0.89,9.58,critical
+Students keep insulting me in class every day.,Mental Health,9,0.91,9.62,critical
+I am constantly being bullied online by classmates.,Bullying,7,0.72,7.12,high
+My classmates mock my accent and laugh every time I speak.,Bullying,7,0.74,7.16,high
+Someone created a fake social-media account using my name and photos.,Bullying,7,0.76,7.2,high
+I receive threatening anonymous messages almost every night.,Bullying,7,0.75,7.18,high
+A group chat was made to specifically humiliate me.,Bullying,7,0.78,7.24,high
+I was publicly shamed by a lecturer in front of the whole class.,Bullying,7,0.73,7.14,high
+I feel unsafe where I stay and I am scared.,Bullying,8,0.8,7.4,high
+My accommodation has no running water and the management ignores me.,Housing Issues,6,0.83,7.38,high
+There are rats in my room and my landlord refuses to act.,Housing Issues,6,0.8,7.32,high
+I share a room with a stranger who is verbally abusive to me.,Housing Issues,6,0.77,7.26,high
+I started using drugs because I cannot handle pressure anymore.,Housing Issues,6,0.79,7.3,high
+I drink alcohol every night just to fall asleep.,Substance Abuse,8,0.89,8.54,high
+I have been smoking excessively since exams started and feel dependent.,Substance Abuse,7,0.82,8.12,high
+I started using prescription medication that is not mine to cope.,Substance Abuse,7,0.81,8.08,high
+I cry every night because of pressure at school.,Substance Abuse,7,0.83,8.14,high
+I have not left my room in two weeks because of anxiety.,Mental Health,8,0.78,7.88,high
+I feel completely numb and detached from everything around me.,Mental Health,8,0.84,8.24,high
+My appetite and sleep are completely gone because of stress.,Mental Health,8,0.82,8.12,high
+I experienced a traumatic event before university and it is catching up with me.,Mental Health,8,0.8,8.0,high
+I had to choose between eating and buying study materials today.,Mental Health,8,0.81,8.04,high
+I lost my bursary and I do not know how I will survive the semester.,Financial Problems,8,0.85,8.4,high
+I am about to be evicted because I cannot pay rent.,Financial Problems,8,0.87,8.54,high
+I have missed so many classes that I might fail the whole year.,Financial Problems,8,0.86,8.48,high
+I have not submitted assignments in a month and I am afraid to reach out.,Academic Stress,7,0.76,7.18,high
+I am considering dropping out because I cannot keep up anymore.,Academic Stress,7,0.78,7.24,high
+I failed my supplementary exams and I feel there is no way forward.,Academic Stress,7,0.8,7.3,high
+I have plagiarized out of desperation and I am terrified of being caught.,Academic Stress,7,0.77,7.22,high
+I am about to be excluded for poor academic performance.,Academic Stress,7,0.79,7.26,high
+My supervisor is threatening to remove me from the research program.,Academic Stress,7,0.75,7.18,high
+I cannot afford food or transport this semester.,Academic Stress,7,0.77,7.22,high
+I am struggling to pay rent this month.,Financial Problems,5,0.65,5.9,medium
+My NSFAS allowance has not arrived and I have no backup.,Financial Problems,5,0.62,5.74,medium
+I sold some of my books to cover transport costs.,Financial Problems,5,0.6,5.7,medium
+I cannot afford data and it is affecting my online studies.,Financial Problems,5,0.58,5.66,medium
+I have been borrowing money from friends and it is creating tension.,Financial Problems,5,0.61,5.72,medium
+My family stopped sending money and I do not know how to manage.,Financial Problems,5,0.59,5.68,medium
+I need to apply for an emergency bursary but I do not know how.,Financial Problems,5,0.63,5.76,medium
+I failed my tests and I feel useless.,Financial Problems,5,0.6,5.7,medium
+I have too many assignments and I cannot rest.,Academic Stress,4,0.58,4.58,medium
+I am struggling to understand the course material and feel behind.,Academic Stress,4,0.55,4.6,medium
+I do not know how to write a proper research proposal.,Academic Stress,4,0.57,4.64,medium
+Group project members are not cooperating and I am doing everything alone.,Academic Stress,4,0.54,4.58,medium
+I missed a key deadline and I am afraid to tell my lecturer.,Academic Stress,4,0.56,4.62,medium
+I have been procrastinating because of anxiety and now I am overwhelmed.,Academic Stress,4,0.53,4.56,medium
+I need help with time management because I am falling behind.,Academic Stress,4,0.55,4.6,medium
+I feel lonely but I am trying to cope.,Academic Stress,4,0.52,4.54,medium
+I often feel like I do not belong at this university.,Mental Health,5,0.45,5.4,medium
+Imposter syndrome is making it hard for me to participate in class.,Mental Health,5,0.47,5.44,medium
+I feel disconnected from my peers and it is affecting my motivation.,Mental Health,5,0.5,5.5,medium
+I have been feeling very low lately but I am not sure why.,Mental Health,5,0.48,5.46,medium
+I feel invisible on campus and nobody notices when I am absent.,Mental Health,5,0.46,5.42,medium
+I struggle to concentrate because of intrusive thoughts.,Mental Health,5,0.44,5.38,medium
+I am homesick and it is affecting my ability to focus.,Mental Health,5,0.49,5.48,medium
+I had a painful breakup and I am finding it hard to study.,Mental Health,5,0.43,5.36,medium
+My best friend betrayed my trust and I feel isolated.,Mental Health,4,0.52,5.04,medium
+I am struggling to make friends and it makes me feel out of place.,Mental Health,4,0.5,5.0,medium
+A conflict with my roommate is making home life unbearable.,Mental Health,4,0.48,4.96,medium
+I feel like my family does not support my education choices.,Mental Health,4,0.51,5.02,medium
+I am having constant arguments with my partner and it affects my studies.,Mental Health,4,0.53,5.06,medium
+I have a learning disability but have not received any academic accommodations.,Mental Health,4,0.49,4.98,medium
+I struggle to keep up in lectures because of my hearing impairment.,Disability Support,5,0.55,5.6,medium
+The campus is not wheelchair accessible and it limits my participation.,Disability Support,5,0.54,5.58,medium
+I have ADHD and I do not know how to access support services.,Disability Support,5,0.53,5.56,medium
+I experience chronic pain that affects my ability to attend classes.,Disability Support,5,0.56,5.62,medium
+I have anxiety disorder and crowded exam halls are very difficult for me.,Disability Support,5,0.52,5.54,medium
+I am stressed about exams and assignments.,Disability Support,5,0.57,5.64,medium
+My internet connection makes studying difficult sometimes.,Mental Health,4,0.48,4.96,medium
+I argued with my friend and now I feel distracted.,Mental Health,4,0.46,4.92,medium
+I missed one lecture and feel behind.,Mental Health,4,0.5,5.0,medium
+Campus noise sometimes affects my concentration.,Mental Health,4,0.47,4.94,medium
+I am nervous about an upcoming presentation.,Academic Stress,3,0.4,3.6,low
+I could not find a study space on campus today.,Academic Stress,3,0.25,2.7,low
+My laptop battery dies quickly and it slows me down.,Mental Health,3,0.35,5.3,low
+I have been waking up late and missing morning lectures.,Academic Stress,3,0.3,3.0,low
+I need advice on how to prepare for semester exams.,Academic Stress,3,0.28,2.88,low
+I find it hard to ask questions in class because I feel shy.,Academic Stress,3,0.38,3.52,low
+My printer broke and I could not submit a physical assignment.,Academic Stress,2,0.22,2.52,low
+I have been feeling slightly unmotivated this week.,Academic Stress,2,0.2,2.48,low
+I forgot my student card and could not access the library.,Academic Stress,3,0.32,3.04,low
+My reading list is long and I do not know where to start.,Academic Stress,3,0.36,3.32,low
+I need to improve my essay writing skills.,Mental Health,3,0.33,3.06,low
+I feel a bit overwhelmed by the amount of reading required.,Academic Stress,2,0.18,2.44,low
+I had a minor disagreement with a classmate.,Mental Health,3,0.37,3.44,low
+I am unsure how to reference sources in APA format.,Academic Stress,2,0.24,2.64,low
+I sometimes find it hard to balance socializing and studying.,Academic Stress,3,0.34,3.08,low
+I feel tired after a long week but I am managing.,Academic Stress,3,0.3,2.88,low
+I need to find a quiet place to study off campus.,Academic Stress,3,0.29,2.76,low
+I forgot about a small quiz and am disappointed in myself.,Mental Health,3,0.31,2.98,low
+I feel slightly anxious about meeting new people this semester.,Academic Stress,2,0.21,2.5,low
+I am unsure which elective to choose next term.,Mental Health,3,0.35,3.2,low
+I need guidance on how to email a lecturer professionally.,Mental Health,3,0.26,2.7,low
+My study group meets at a time that conflicts with my schedule.,Academic Stress,2,0.23,2.6,low
+I feel a bit behind after a short illness last week.,Academic Stress,3,0.28,2.72,low
+I need to improve my note-taking during lectures.,Mental Health,3,0.33,3.06,low
+I got a lower grade than expected and want to do better.,Academic Stress,2,0.2,2.48,low
+I would like guidance on choosing my courses.,Academic Stress,2,0.19,2.44,low
+Can someone explain scholarship opportunities available?,Academic Stress,2,0.22,2.52,low
+I need help understanding the registration process.,Academic Stress,3,0.27,2.74,low
+I want advice on improving my study habits.,Academic Stress,3,0.3,2.88,low
+Where can I get counseling services on campus?,Academic Stress,3,0.25,2.68,low
+How do I apply for a supplementary exam?,Academic Guidance,2,0.1,1.4,neutral
+I would like to know the library borrowing rules.,Financial Aid,2,0.12,1.52,neutral
+Can you help me understand the academic calendar?,Academic Guidance,2,0.15,1.7,neutral
+I need information about student housing options.,Academic Guidance,2,0.18,1.88,neutral
+How do I join a student society or club?,Mental Health,2,0.2,2.0,neutral
+What are the requirements for graduating with distinction?,Academic Guidance,2,0.11,1.44,neutral
+I would like to know more about the tutoring program.,Academic Guidance,2,0.13,1.56,neutral
+Can I change my major in second year?,Academic Guidance,2,0.14,1.6,neutral
+What is the process for appealing a grade?,Housing Information,2,0.16,1.64,neutral
+I want to know how to access free mental health resources.,Student Life,2,0.17,1.72,neutral
+How do I apply for a gap year deferral?,Academic Guidance,2,0.12,1.52,neutral
+What bursaries are available for postgraduate students?,Academic Guidance,2,0.11,1.44,neutral
+I need help writing my CV for an internship application.,Academic Guidance,2,0.13,1.56,neutral
+What career services does the university offer?,Academic Guidance,2,0.15,1.6,neutral
+How do I get a certified copy of my academic transcript?,Mental Health,2,0.19,1.88,neutral
+Can you explain how the student portal works?,Academic Guidance,2,0.1,1.4,neutral
+I want to know about exchange programs abroad.,Financial Aid,2,0.14,1.6,neutral
+What are the rules for submitting late assignments?,Career Services,2,0.16,1.68,neutral
+How do I contact the student representative council?,Career Services,2,0.18,1.8,neutral
+I would like tips for preparing for job interviews.,Academic Guidance,2,0.12,1.52,neutral
+What documents do I need to update my contact details?,Academic Guidance,2,0.15,1.6,neutral
+Where can I find past exam papers for revision?,Academic Guidance,2,0.13,1.56,neutral
+I need help setting up my university email account.,Academic Guidance,2,0.11,1.44,neutral
+What are the rules around academic integrity?,Student Life,2,0.17,1.72,neutral
+I want to know how to request a letter of good standing.,Career Services,2,0.2,2.0,neutral
+You people are stupid.,Academic Guidance,2,0.1,1.4,neutral
+This system is useless hahaha.,Academic Guidance,2,0.14,1.6,neutral
+asdfghjkl random text message.,Academic Guidance,2,0.12,1.52,neutral
+I am submitting this for fun only.,Academic Guidance,2,0.13,1.56,neutral
+Nobody here helps students anyway.,Academic Guidance,2,0.11,1.44,neutral
+Testing 1 2 3.,Spam,0,0.05,0.3,spam
+lol this is a joke form.,Spam,0,0.03,0.18,spam
+AAAAAAAAAA.,Spam,0,0.01,0.06,spam
+qwerty uiop asdf ghjkl zxcv bnm.,Spam,0,0.02,0.12,spam
+I just wanted to see what happens if I press submit.,Spam,0,0.04,0.24,spam
+Blah blah blah nobody reads these.,Spam,0,0.01,0.06,spam
+This portal is trash.,Spam,0,0.02,0.12,spam
+I hate this university and everything about it.,Spam,0,0.01,0.06,spam
+You are all useless administrators.,Spam,0,0.01,0.06,spam
+Why bother filling this in.,Spam,0,0.03,0.18,spam
+Hahaha I dare someone to call me.,Spam,0,0.02,0.12,spam
+This is a test entry please ignore.,Spam,0,0.04,0.24,spam
+Hello world.,Spam,0,0.05,0.3,spam
+Copy paste copy paste copy paste.,Spam,0,0.03,0.18,spam
+I just ate a sandwich it was great.,Spam,0,0.02,0.12,spam
+My cat's name is Fluffy and she is adorable.,Spam,0,0.01,0.06,spam
+The sky is blue and grass is green obviously.,Spam,0,0.01,0.06,spam
+I found ten rand on the floor today yay.,Spam,0,0.02,0.12,spam
+Submit submit submit submit.,Spam,0,0.03,0.18,spam
+ndnjdnjdnjdnjdnj idk what this is.,Spam,0,0.01,0.06,spam
+Fake emergency haha got you.,Spam,0,0.02,0.12,spam
+If you reply I will be shocked.,Spam,0,0.04,0.24,spam
+This website smells funny.,Spam,0,0.01,0.06,spam
+I do not have a problem I just clicked by accident.,Spam,0,0.02,0.12,spam
+Nothing to see here move along.,Spam,0,0.01,0.06,spam
+Error 404 student not found.,Spam,0,0.03,0.18,spam
+I am a robot beep boop.,Spam,0,0.01,0.06,spam
+Please send me a pizza.,Spam,0,0.02,0.12,spam
+I am testing the system for a class assignment.,Spam,0,0.01,0.06,spam
+My dog ate my homework literally.,Spam,0,0.04,0.24,spam
+Stop asking me how I feel.,Spam,0,0.02,0.12,spam
+This is clearly not a real submission.,Spam,0,0.01,0.06,spam
+I am writing this from the future.,Spam,0,0.03,0.18,spam
+Out of office auto-reply.,Spam,0,0.01,0.06,spam
+🙃🙃🙃🙃🙃🙃🙃🙃🙃.,Spam,0,0.02,0.12,spam
+This is not a real submission at all.,Spam,0,0.04,0.24,spam
+I clicked submit by mistake sorry.,Spam,0,0.01,0.06,spam
+Just ignore this completely.,Spam,0,0.03,0.18,spam
+Lorem ipsum dolor sit amet.,Spam,0,0.02,0.12,spam
+I have nothing to report today bye.,Spam,0,0.01,0.06,spam
+"I have been planning how to end my life and I have a method in mind.",Mental Health,10,0.99,9.98,critical
+"My stepfather has been abusing me physically for months and I am too scared to report it.",Abuse,10,0.97,9.94,critical
+"I collapsed in my room and nobody checked on me for two days.",Mental Health,9,0.94,9.76,critical
+"I was drugged at a party and I think I was assaulted but I cannot remember.",Abuse,10,0.98,9.96,critical
+"I have been cutting myself daily to cope and the wounds are getting worse.",Mental Health,10,0.96,9.92,critical
+"I sent a farewell message to my family last night.",Mental Health,10,0.99,9.98,critical
+"My housemate physically attacked me and I have injuries.",Housing Issues,9,0.95,9.80,critical
+"I am being trafficked and I need urgent help to get out.",Safety,10,0.99,9.98,critical
+"I have not taken my psychiatric medication in weeks and I am deteriorating fast.",Mental Health,9,0.93,9.72,critical
+"Someone is blackmailing me with intimate images and I do not know what to do.",Safety,9,0.94,9.76,critical
+"A peer threatened me with a weapon near campus.",Safety,10,0.97,9.94,critical
+"I passed out from hunger and woke up alone with no one to call.",Mental Health,9,0.91,9.62,critical
+"I attempted to harm myself this morning and I am still alone.",Mental Health,10,0.99,9.98,critical
+"I am hiding in a bathroom because my partner is outside threatening me.",Abuse,10,0.99,9.98,critical
+"I have been experiencing psychosis and I cannot tell what is real anymore.",Mental Health,9,0.95,9.80,critical
+"I am a first-year student and someone twice my age is forcing me into a relationship.",Abuse,9,0.93,9.72,critical
+"My landlord is threatening to harm me if I report the poor conditions.",Housing Issues,9,0.92,9.68,critical
+"I have been sleep-deprived for weeks due to severe anxiety and I feel I am breaking down.",Mental Health,9,0.90,9.60,critical
+"I was coerced into sexual activity by someone in authority.",Abuse,10,0.98,9.96,critical
+"I have bruises from last night and I need medical help but I am scared.",Abuse,9,0.96,9.84,critical
+"I keep getting anonymous death threats on my phone.",Safety,8,0.90,9.60,high
+"My classmates formed a group to exclude and isolate me.",Bullying,7,0.75,7.22,high
+"I have been vomiting after every meal and I think I have an eating disorder.",Mental Health,8,0.83,8.46,high
+"I witnessed a violent incident on campus and I am traumatized.",Mental Health,8,0.82,8.44,high
+"I am failing three modules and my scholarship requires me to pass all of them.",Academic Stress,7,0.80,8.20,high
+"I have been using stimulants to stay awake for exams and I feel dependent.",Substance Abuse,8,0.84,8.48,high
+"A senior student is exploiting me financially and emotionally.",Abuse,8,0.86,8.52,high
+"I reported harassment and nothing was done and now it is worse.",Safety,7,0.82,8.14,high
+"I have been living in my car because I lost my accommodation.",Housing Issues,8,0.88,8.56,high
+"My mental health professional stopped my sessions and I am not coping.",Mental Health,8,0.81,8.22,high
+"I relapsed into alcohol dependency after two years of sobriety.",Substance Abuse,8,0.85,8.50,high
+"I discovered my roommate has been stealing my food and money.",Housing Issues,6,0.79,7.38,high
+"I have been harassed repeatedly by the same lecturer.",Bullying,8,0.83,8.46,high
+"I cannot afford my chronic medication this month.",Financial Problems,8,0.87,8.54,high
+"I am too anxious to leave my room to attend any classes.",Mental Health,8,0.84,8.48,high
+"My family is pressuring me to quit university and get married.",Mental Health,7,0.76,7.32,high
+"I have been starving myself to afford textbooks.",Financial Problems,8,0.86,8.52,high
+"I have serious trust issues after being betrayed by a mentor.",Mental Health,7,0.77,7.34,high
+"I am being excluded from group work because of my race.",Bullying,8,0.80,8.40,high
+"I have received racial slurs from classmates multiple times this semester.",Bullying,8,0.82,8.44,high
+"I borrowed money from a loan shark to pay fees and I am being threatened now.",Financial Problems,5,0.60,5.70,medium
+"I have been struggling with body image issues for a long time.",Mental Health,5,0.55,5.60,medium
+"I feel pressure from my parents to achieve grades I am not capable of.",Mental Health,5,0.52,5.54,medium
+"I do not understand how to register for next semester and the deadline is close.",Academic Guidance,4,0.50,4.50,medium
+"I have been absent from campus due to a family illness and I am behind.",Academic Stress,4,0.54,4.58,medium
+"I find it hard to speak English in academic settings and it affects my confidence.",Academic Stress,4,0.51,4.52,medium
+"My supervisor does not respond to my emails and my thesis is delayed.",Academic Stress,5,0.58,5.66,medium
+"I am a caregiver at home and it is affecting my studies significantly.",Academic Stress,5,0.56,5.62,medium
+"I have been grieving the loss of a family member and struggling to focus.",Mental Health,5,0.57,5.64,medium
+"I am experiencing burnout and I have lost all motivation to study.",Mental Health,5,0.55,5.60,medium
+"I have social anxiety and attending seminars is very difficult for me.",Mental Health,5,0.53,5.56,medium
+"I do not feel represented or included in my department.",Mental Health,4,0.48,4.96,medium
+"My work-study schedule is unsustainable and I am exhausted.",Academic Stress,4,0.52,4.54,medium
+"I am a single parent and balancing parenting and studying is overwhelming.",Academic Stress,5,0.57,5.64,medium
+"My phone was stolen and I cannot access online learning platforms.",Financial Problems,4,0.50,4.50,medium
+"I need support applying for a disability accommodation at my institution.",Disability Support,5,0.55,5.60,medium
+"I have been missing deadlines because of a chronic illness flare-up.",Disability Support,5,0.56,5.62,medium
+"I feel like my culture is mocked by lecturers and peers.",Mental Health,5,0.52,5.54,medium
+"I am struggling to cope after a difficult family divorce.",Mental Health,5,0.54,5.58,medium
+"I failed a year and I feel too embarrassed to return to campus.",Academic Stress,4,0.51,4.52,medium
+"I need a mentor but I do not know how to find one.",Academic Guidance,4,0.48,4.46,medium
+"I have debt collectors contacting me about student loan repayments.",Financial Problems,5,0.59,5.68,medium
+"I was involved in a minor accident and I am still shaken.",Mental Health,4,0.52,4.54,medium
+"I am worried I will not finish my degree before my visa expires.",Academic Stress,5,0.58,5.66,medium
+"I feel like my lecturers are dismissive when I ask questions.",Academic Stress,4,0.49,4.48,medium
+"I cannot concentrate in exams because of test anxiety.",Mental Health,4,0.50,4.50,medium
+"I slept through an important exam and I need guidance on what to do.",Academic Stress,4,0.53,4.56,medium
+"I have a conflict with my thesis supervisor that is becoming hostile.",Academic Stress,5,0.57,5.64,medium
+"I do not have enough money for graduation fees and I am worried.",Financial Problems,5,0.55,5.60,medium
+"I feel like I am falling behind my peers and it makes me feel worthless.",Mental Health,5,0.52,5.54,medium
+"I spilled water on my laptop and lost all my assignment work.",Academic Stress,3,0.30,2.88,low
+"I am nervous about my first time presenting to a large group.",Academic Stress,3,0.32,2.94,low
+"I need help understanding how to use the university library database.",Academic Guidance,2,0.18,2.18,low
+"I feel slightly demotivated after receiving average feedback.",Academic Stress,3,0.28,2.84,low
+"I could not attend a class because of transport issues today.",Academic Stress,3,0.29,2.86,low
+"I am adjusting to a new city and feeling a little out of place.",Mental Health,3,0.31,2.90,low
+"I need tips on how to stay focused during long study sessions.",Academic Guidance,2,0.20,2.20,low
+"I feel behind after returning from a short holiday.",Academic Stress,3,0.27,2.82,low
+"My Wi-Fi keeps disconnecting during online lectures.",Academic Stress,2,0.22,2.22,low
+"I need advice on how to manage my time between two part-time jobs.",Academic Guidance,2,0.21,2.21,low
+"I feel a little anxious before group discussions but I manage.",Mental Health,3,0.30,2.88,low
+"I keep forgetting to check my university email regularly.",Academic Stress,2,0.18,2.18,low
+"I find reading long academic papers tiring and I need strategies.",Academic Guidance,2,0.19,2.19,low
+"I want to improve my public speaking but I do not know where to start.",Academic Guidance,2,0.20,2.20,low
+"I sometimes feel like I chose the wrong major but I am figuring it out.",Academic Stress,3,0.28,2.84,low
+"I would like to know what internships are available for my field.",Career Services,2,0.15,2.15,neutral
+"Can I get more information on how the academic appeals process works?",Academic Guidance,2,0.13,2.13,neutral
+"I need help understanding what plagiarism means and how to avoid it.",Academic Guidance,2,0.14,2.14,neutral
+"What support is available for international students on campus?",Academic Guidance,2,0.16,2.16,neutral
+"I want to know how to get involved in community service programs.",Student Life,2,0.12,2.12,neutral
+"How do I request a study permit extension as an international student?",Academic Guidance,2,0.15,2.15,neutral
+"I would like to book an appointment with a financial aid advisor.",Financial Aid,2,0.13,2.13,neutral
+"What are the requirements for the postgraduate diploma program?",Academic Guidance,2,0.14,2.14,neutral
+"How do I access the e-learning platform from off campus?",Academic Guidance,2,0.12,2.12,neutral
+"I want to find out more about wellness programs offered on campus.",Mental Health,2,0.17,2.17,neutral
+"lmao this website doesnt even work properly.",Spam,0,0.02,0.12,spam
+"i dont know why im even filling this in honestly.",Spam,0,0.01,0.06,spam
+"nothing nothing nothing nothing.",Spam,0,0.01,0.06,spam
+"i am just pressing keys fjdksajfkldsajflksd.",Spam,0,0.01,0.06,spam
+"this is clearly a fake emergency hahaha.",Spam,0,0.02,0.12,spam
+"my imaginary friend has a problem.",Spam,0,0.01,0.06,spam
+"no problems here just vibing.",Spam,0,0.02,0.12,spam
+"test test is this thing on.",Spam,0,0.01,0.06,spam
+"i submitted this last week already stop emailing me.",Spam,0,0.02,0.12,spam
+"zzzzzzzzzzzzzzzzzzzzzzzzzzz.",Spam,0,0.01,0.06,spam
